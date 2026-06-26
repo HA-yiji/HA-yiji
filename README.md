@@ -95,4 +95,4 @@ Makers 2024 Summer Section Study에서 진행한 Computer Vision 프로젝트입
 
 ## Contact 📬
 
-* Email: [hez0602@gmail.com](mailto:hez0602@gmail.com)
+* Email: [hez0602@gmail.com](mailto:hez0602@gmail.com)  [hez0602@naver.com](mailto:hez0602@naver.com)
